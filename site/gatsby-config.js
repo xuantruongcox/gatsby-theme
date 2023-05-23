@@ -1,7 +1,7 @@
 module.exports = {
   plugins: [
     {
-      resolve: "@coxdev/gatsby-theme-events",
+      resolve: "gatsby-theme-events",
       options: {},
     },
   ],
