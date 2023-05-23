@@ -8769,8 +8769,8 @@ sisteransi@^1.0.5:
   version "1.0.0"
   resolved "file:site"
   dependencies:
+    "@coxdev/gatsby-theme-events" "^1.0.0"
     gatsby "^5.10.0"
-    gatsby-theme-events "^1.0.0"
     react "^18.2.0"
     react-dom "^18.2.0"
 
