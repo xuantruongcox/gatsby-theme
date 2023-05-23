@@ -1063,6 +1063,17 @@
   resolved "https://registry.npmjs.org/@builder.io/partytown/-/partytown-0.7.6.tgz"
   integrity sha512-snXIGNiZpqjno3XYQN2lbBB+05hsQR/LSttbtIW1c0gmZ7Kh/DIo0YrxlDxCDulAMFPFM8J+4voLwvYepSj3sw==
 
+"@coxdev/gatsby-theme-events@^1.0.0", "@coxdev/gatsby-theme-events@file:/home/xuantruong/worl_space/own-gatsby-theme/gatsby-theme-events":
+  version "1.0.0"
+  resolved "file:gatsby-theme-events"
+  dependencies:
+    "@emotion/react" "^11.11.0"
+    "@theme-ui/mdx" "^0.15.7"
+    gatsby-plugin-theme-ui "^0.15.7"
+    gatsby-source-filesystem "^5.10.0"
+    gatsby-transformer-yaml "^5.10.0"
+    theme-ui "^0.15.7"
+
 "@emotion/babel-plugin@^11.11.0":
   version "11.11.0"
   resolved "https://registry.npmjs.org/@emotion/babel-plugin/-/babel-plugin-11.11.0.tgz"
@@ -5440,10 +5451,6 @@ gatsby-telemetry@^4.10.0:
     is-docker "^2.2.1"
     lodash "^4.17.21"
     node-fetch "^2.6.9"
-
-gatsby-theme-events@^1.0.0, "gatsby-theme-events@file:/home/xuantruong/worl_space/own-gatsby-theme/gatsby-theme-events":
-  version "1.0.0"
-  resolved "file:gatsby-theme-events"
 
 gatsby-transformer-yaml@^5.10.0:
   version "5.10.0"
