@@ -1,5 +1,5 @@
 {
-  "name": "@coxdev/gatsby-theme-events",
+  "name": "gatsby-theme-events",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
